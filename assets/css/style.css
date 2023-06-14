@@ -118,11 +118,7 @@ section.title{
         align-items: center;
 
     }
-    .title__profile{
-         /* width: 25%; */
-         /* height: 50%; */
-         /* height: auto; */
-    }
+   
     .title__container{
         width: 75%;
         display: flex;
